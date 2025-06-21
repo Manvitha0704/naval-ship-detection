@@ -1,0 +1,6 @@
+yolov5/runs/ 
+__pycache__/ 
+*.pt 
+*.jpg 
+*.png 
+.vscode/ 
